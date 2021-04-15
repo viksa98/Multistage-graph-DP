@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/olive/Desktop/viksa-proekt/Graph.cpp
+Graph.h
+C:/Users/olive/Desktop/viksa-proekt/Graph.h
+iostream
+-
+
+C:/Users/olive/Desktop/viksa-proekt/Graph.h
+
+C:/Users/olive/Desktop/viksa-proekt/main.cpp
+iostream
+-
+vector
+-
+Graph.h
+C:/Users/olive/Desktop/viksa-proekt/Graph.h
+min_cost.h
+C:/Users/olive/Desktop/viksa-proekt/min_cost.h
+max_profit.h
+C:/Users/olive/Desktop/viksa-proekt/max_profit.h
+
+C:/Users/olive/Desktop/viksa-proekt/max_profit.cpp
+max_profit.h
+C:/Users/olive/Desktop/viksa-proekt/max_profit.h
+iostream
+-
+
+C:/Users/olive/Desktop/viksa-proekt/max_profit.h
+
+C:/Users/olive/Desktop/viksa-proekt/min_cost.cpp
+min_cost.h
+C:/Users/olive/Desktop/viksa-proekt/min_cost.h
+iostream
+-
+
+C:/Users/olive/Desktop/viksa-proekt/min_cost.h
+

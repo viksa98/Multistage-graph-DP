@@ -1,0 +1,3 @@
+C:\Users\olive\Downloads\CLion-2021.1.win\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\viksa_proekt.dir/objects.a
+D:\mingw\mingw64\bin\ar.exe cr CMakeFiles\viksa_proekt.dir/objects.a @CMakeFiles\viksa_proekt.dir\objects1.rsp
+D:\mingw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\viksa_proekt.dir/objects.a -Wl,--no-whole-archive -o viksa_proekt.exe -Wl,--out-implib,libviksa_proekt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\viksa_proekt.dir\linklibs.rsp

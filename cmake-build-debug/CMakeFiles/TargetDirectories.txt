@@ -1,0 +1,3 @@
+C:/Users/olive/Desktop/viksa-proekt/cmake-build-debug/CMakeFiles/viksa_proekt.dir
+C:/Users/olive/Desktop/viksa-proekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/olive/Desktop/viksa-proekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
